@@ -1,0 +1,17 @@
+date,merchant,amount,description
+2026-08-05,Netflix,199,Monthly streaming plan
+2026-09-05,Netflix,199,Monthly streaming plan
+2026-10-05,Netflix,249,Monthly streaming plan price change
+2026-08-10,Spotify,119,Music subscription
+2026-09-10,Spotify,119,Music subscription
+2026-10-10,Spotify,119,Music subscription
+2026-08-15,Google One,130,Cloud storage plan
+2026-09-15,Google One,130,Cloud storage plan
+2026-10-15,Google One,130,Cloud storage plan
+2026-08-20,Disney Hotstar,149,Streaming subscription
+2026-09-20,Disney Hotstar,149,Streaming subscription
+2026-10-20,Disney Hotstar,149,Streaming subscription
+2026-10-22,Local Grocery,850,One-time purchase
+2026-10-23,Petrol Pump,1200,One-time purchase
+2026-10-24,Restaurant,560,One-time purchase
+2026-10-25,Amazon Prime,1499,Annual membership
